@@ -6,7 +6,7 @@ This project blends **modern web design** with **traditional Bengali heritage**.
 
 ---
 
-## ✨ Features
+## ✨ Features:-
 
 - 🎨 Premium festive UI with gold & red theme
 - 📱 Fully mobile-responsive (mobile, tablet, desktop)
