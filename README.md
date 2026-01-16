@@ -32,4 +32,4 @@ No external libraries or frameworks used.
 Inspired by the rich cultural heritage of Bengal
 "যত পিঠে, তত আনন্দ"
 
-Author>>
+Author>>Anirban Chattaraj
