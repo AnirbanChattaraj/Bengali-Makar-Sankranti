@@ -20,9 +20,9 @@ This project blends **modern web design** with **traditional Bengali heritage**.
 
 ## 🛠 Tech Stack:-
 
-- **HTML5** – Semantic structure  
-- **CSS3** – Modern layout, Grid, animations  
-- **JavaScript (Vanilla)** – Scroll animations & interactions  
+- *HTML5** – Semantic structure  
+- *CSS3** – Modern layout, Grid, animations  
+- *JavaScript** – Scroll animations & interactions  
 
 No external libraries or frameworks used.
 
