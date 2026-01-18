@@ -24,7 +24,7 @@ This project blends **modern web design** with **traditional Bengali heritage**.
 - *CSS3* – Modern layout, Grid, animations  
 - *JavaScript* – Scroll animations & interactions  
 
-No external libraries or frameworks used.
+
 
 
 ❤️ Acknowledgement
