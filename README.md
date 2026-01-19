@@ -32,4 +32,4 @@ This project blends **modern web design** with **traditional Bengali heritage**.
 Inspired by the rich cultural heritage of Bengal
 "যত পিঠে, তত আনন্দ"
 
-Author>>Anirban Chattaraj<<
+>>Author>>Anirban Chattaraj
